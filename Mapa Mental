@@ -1,0 +1,85 @@
+  root((Análisis del Problema (Fase 2 PRÁCTICA)))
+    Técnica 5: Análisis Dimensional
+      ¿Qué? (Sustantiva)
+        Naturaleza (Acción/Omisión, Actitudes/Hechos, Fines/Medios, Activo/Pasivo, Visible/Latente)
+        Relación con otros problemas
+        Magnitud (Grande/Mediano/Pequeño)
+        Consecuencias (No resolver/Retrasar)
+      ¿Quién? (Personal)
+        Identificador
+        Productor
+        Afectados
+        Solucionadores
+        Consultados
+      ¿Para qué? (Finalista)
+        Objetivos de la resolución
+        Justificación (Tiempo/Dinero)
+      ¿Cuándo/Desde cuándo? (Temporal)
+        Antigüedad/Reciente
+        Actual/Potencial
+        Periodicidad (Permanente/Recurrente/Ocasional)
+        Origen
+        Manifestación
+        Evolución (Aumento de importancia)
+      ¿Cuánto? (Cuantitativa)
+        Pérdida de tiempo
+        Costes
+        Impacto (Calidad, Servicio, Satisfacción, Organización, Cultura, Valores)
+      ¿Cómo? (Cualitativa)
+        Presentación
+        Evolución
+        Naturaleza (Técnico, RRHH, Organización)
+      ¿Dónde? (Espacial)
+        General/Local
+        Organización completa
+        Unidad específica
+        Propio/Sector/General
+    Técnica 6: Diagrama de Ishikawa
+      Descripción
+        Causas agrupadas (4 M's)
+          Máquinas
+          Mano de Obra
+          Materiales
+          Métodos
+        Descomposición en sub-causas
+        Forma de espina de pescado
+        Adaptable a otros bloques
+        Aplicable a objetivos
+      Fases
+        Identificación del problema
+        Análisis de causas (Personas)
+        Análisis de causas (Métodos)
+        Análisis de causas (Máquinas)
+        Análisis de causas (Materiales)
+    Técnica 7: Árbol de Causas y Efectos
+      Descripción
+        Encontrar el "por qué" (causas)
+        Descubrir las consecuencias (efectos)
+        Identificar causas raíz
+        Determinar la importancia (efectos)
+      Fases (Causas)
+        Análisis de causas primarias
+        Análisis de causas secundarias y sucesivas
+        Detención (Agente externo no controlable)
+        Detención (Política de dirección)
+      Fases (Efectos)
+        Análisis de efectos primarios
+        Análisis de efectos secundarios y sucesivos
+        Detención (No afecta objetivo importante)
+      Señalar causas y efectos importantes
+    Técnica 8: Sistemas de Relevancia o Pertenencia
+      Descripción
+        Organizar información por desgloses sucesivos
+        De elementos importantes a secundarios
+        Estructura piramidal
+        Tipos: Simple y Binario
+      Fases (Simple)
+        Escribir elemento de mayor nivel
+        Relacionar elementos del segundo nivel
+        Relacionar elementos de niveles sucesivos (hasta agotar)
+        Comprobar validez (de abajo arriba)
+        Sugerir soluciones (niveles bajos)
+      Fases (Binario)
+        Crear segundo sistema (si hay superposición)
+        Enfrentar elementos de menor nivel
+        Estudiar interfaces (solapes, restricciones)
